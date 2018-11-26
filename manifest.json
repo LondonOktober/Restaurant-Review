@@ -1,0 +1,20 @@
+{
+  "name": "Udacity Restaurant Reviews",
+  "short_name": "Restaurants",
+  "theme_color": "#4f455e",
+  "background_color": "#fdfdfd",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [{
+      "src": "/images/dish-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/dish-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
